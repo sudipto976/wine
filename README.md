@@ -37,3 +37,7 @@ git add .
 ```bash
 git commit -m "first commit"
 ```
+
+```bash
+git push origin main
+```
