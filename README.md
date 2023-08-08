@@ -18,12 +18,22 @@ install req
 pip install -r requirement.txt
 ```
 
+```bash
 git init
+```
 
+```bash
 dvc init
+```
 
+```bash
 dvc add data_given/winequality.csv
+```
 
+```bash
 git add .
+```
 
+```bash
 git commit -m "first commit"
+```
