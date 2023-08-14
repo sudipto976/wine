@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285740398984496002/5c729fae6f8240d6b007deb7d671d16f/artifacts
+end_time: 1691990912039
+entry_point_name: ''
+experiment_id: '285740398984496002'
+lifecycle_stage: active
+run_id: 5c729fae6f8240d6b007deb7d671d16f
+run_name: mlops
+run_uuid: 5c729fae6f8240d6b007deb7d671d16f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691990908872
+status: 3
+tags: []
+user_id: sudip
